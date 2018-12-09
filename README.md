@@ -5,3 +5,9 @@ Website URL: http://studentcevo.somee.com
 Username: Manan  
 Password: pass@123  
 
+# Technology
+Database: MS Access  
+Server-side scripting: ASP   
+Frontend: HTML/ CSS  
+
+
